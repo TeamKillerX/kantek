@@ -46,6 +46,7 @@ async def user_info(msg: Message, tags: Tags, client: Client, db: Database,
         {cmd} 777000 -all
         {cmd} 777000 -sw
         {cmd} -sa
+        {cmd} 777000 mention:True
     """
     if not args and msg.is_reply:
         return await _info_from_reply(client, msg, db, kwargs, tags)
