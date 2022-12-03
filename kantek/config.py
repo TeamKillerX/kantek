@@ -42,7 +42,7 @@ class ConfigWrapper:
 
     kill_command: Optional[str] = None
 
-    source_url: str = 'src.kv2.dev'
+    source_url: str = 'https://github.com/TeamKillerX/kantek'
 
 
 class Config:  # pylint: disable = R0902
