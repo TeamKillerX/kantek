@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+migrant setup && migrant apply --all && python3 -m kantek
