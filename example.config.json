@@ -6,6 +6,10 @@
     "db_password": "PASSWORD",
     "db_type": "postgres",
 
+    "spamwatch_token": "",
+    "db_port": "",
+    "prefixes": ["."],
+
     "log_bot_token": "123456789:AABBCCDDEEFFGGHH",
     "log_channel_id": -100123456789
 }
