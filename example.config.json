@@ -8,8 +8,9 @@
 
     "spamwatch_token": "",
     "db_port": "",
-    "prefixes": ["."],
+    "prefixes": [".", "?"],
 
     "log_bot_token": "123456789:AABBCCDDEEFFGGHH",
-    "log_channel_id": -100123456789
+    "log_channel_id": -100123456789,
+    "gban_group": -100123456789
 }
